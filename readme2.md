@@ -1,1 +1,1 @@
-New file to understand how it works
+New file to understand how it works. Initialize.
